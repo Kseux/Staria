@@ -13,7 +13,7 @@ telechargez git :
 * Sinon les autres option par defaut n'ont aucune importance, cliquez sur suivant le reste du temps ;)
 * Pour mac je n'ai pas d'image à fournir mais git doit imperativement etre utilisable en ligne de commande
  
-note : si git vous demande de creer un depot apres/a la fin l'instalation, ne le faites, on s'en occupe juste apres avec une ligne de commande.
+note : si git vous demande de creer un depot apres/a la fin l'instalation, ne le faites (skippez cette etape) on s'en occupe juste apres avec une ligne de commande.
 
 ## Creer le depot :
 * Ouvrez un terminal ou une console (du systeme d'operation, pas GitBash) à partir du dossier de Starbound (Ou creer un .bat ou .sh avec la commande suivante a l'interieur puis executer le)

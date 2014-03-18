@@ -10,13 +10,18 @@ telechargez git :
 ## Installez git :
 * Pour Windows, durant l'instalation verifiez bien que cette ligne est activé, sinon activez la.
 ![Image instructive](http://i.imgur.com/J4jn2ux.png)
+* Sinon les autres option par defaut n'ont aucune importance, cliquez sur suivant le reste du temps ;)
 * Pour mac je n'ai pas d'image à fournir mais git doit imperativement etre utilisable en ligne de commande
+ 
+note : si git vous demande de creer un depot apres/a la fin l'instalation, ne le faites, on s'en occupe juste apres avec une ligne de commande.
 
 ## Creer le depot :
-* Ouvrez un terminal ou une console dans le dossier de Starbound (Ou creer un .bat ou .sh avec la commande suivante a l'interieur puis executer le)
+* Ouvrez un terminal ou une console (du systeme d'operation, pas GitBash) à partir du dossier de Starbound (Ou creer un .bat ou .sh avec la commande suivante a l'interieur puis executer le)
 * Entrez "git clone https://github.com/purexo/Staria.git .\Staria" (pour windows)
 * Entrez "git clone https://github.com/purexo/Staria.git ./Staria" (pour mac et linux)
 * Verifiez que dans la racine de Starbound vous avez un dossier Staria (contenant le contenu de ce depot)
+
+Note : Vous pouvez le faire avec le terminal GitBash mais vous ne pourrez pas utiliser le copié collé
 
 # Utilisation :
 * faites un raccourci du launcher adapté à votre OS (lancement en tant qu'admin conseillé)

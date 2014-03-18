@@ -8,7 +8,8 @@ telechargez git :
 * linux : vous pouvez utiliser les depots de votre distribution, ce devrais etre plus simple ^^
 
 Installez git :
-![Image instructive](http://i.imgur.com/J4jn2ux.png "Pour Windows, durant l'instalation verifiez bien que cette ligne est activé, sinon activez la.")
+* Pour Windows, durant l'instalation verifiez bien que cette ligne est activé, sinon activez la.
+![Image instructive](http://i.imgur.com/J4jn2ux.png)
 * Pour mac je n'ai pas d'image à fournir mais git doit imperativement etre utilisable en ligne de commade
 
 Creer le depot :

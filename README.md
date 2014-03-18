@@ -10,7 +10,7 @@ telechargez git :
 ## Installez git :
 * Pour Windows, durant l'instalation verifiez bien que cette ligne est activé, sinon activez la.
 ![Image instructive](http://i.imgur.com/J4jn2ux.png)
-* Pour mac je n'ai pas d'image à fournir mais git doit imperativement etre utilisable en ligne de commade
+* Pour mac je n'ai pas d'image à fournir mais git doit imperativement etre utilisable en ligne de commande
 
 ## Creer le depot :
 * Ouvrez un terminal ou une console dans le dossier de Starbound

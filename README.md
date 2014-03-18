@@ -13,13 +13,13 @@ telechargez git :
 * Pour mac je n'ai pas d'image à fournir mais git doit imperativement etre utilisable en ligne de commande
 
 ## Creer le depot :
-* Ouvrez un terminal ou une console dans le dossier de Starbound
+* Ouvrez un terminal ou une console dans le dossier de Starbound (Ou creer un .bat ou .sh avec la commande suivante a l'interieur puis executer le)
 * Entrez "git clone https://github.com/purexo/Staria.git .\Staria" (pour windows)
 * Entrez "git clone https://github.com/purexo/Staria.git ./Staria" (pour mac et linux)
 * Verifiez que dans la racine de Starbound vous avez un dossier Staria (contenant le contenu de ce depot)
 
 # Utilisation :
-* faites un raccourci du launcher adapté à votre OS
+* faites un raccourci du launcher adapté à votre OS (lancement en tant qu'admin conseillé)
 * utilisez le
 
 # Liste des mods de Staria :

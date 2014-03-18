@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 10 },
+    { "item" : "money", "count" : 500 }
+  ],
+  "output" : { "item" : "atmospheregenerator", "count" : 1 },
+  "groups" : [ "roboticcraftingtable", "tools", "all" ]
+}

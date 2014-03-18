@@ -1,0 +1,51 @@
+{
+  "objectName" : "randombox",
+  "rarity" : "Legendary",
+  "objectType" : "wire",
+  "scripts" : [ "/objects/wired/randombox/randombox.lua" ],
+  "scriptDelta" : 5,
+ 
+  
+  "filterButtons" : [ 
+    {
+    "baseImage" : "/objects/wired/randombox/icons/wip.png",
+    "baseImageChecked" : "/objects/wired/randombox/icons/wippressed.png",
+    "filter" : "wip"
+	}
+  ],
+
+  
+  "printable" : false,
+  "description" : "In-infinite amounts of weapons.",
+  "shortdescription" : "Random Weapons Box",
+  "race" : "generic",
+  "category" : "crafting",
+
+  "apexDescription" : "For testing!",
+  "avianDescription" : "For testing!",
+  "floranDescription" : "For testing!",
+  "glitchDescription" : "For testing!",
+  "humanDescription" : "For testing!",
+  "hylotlDescription" : "For testing!",
+
+  "inventoryIcon" : "randomboxicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "randombox.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 14,
+      "animationCycle" : 3.5,
+      
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+	  "collision" : "platform"
+
+    }
+  ],
+  
+  "animation" : "/objects/wired/randombox/randombox.animation",
+  "animationParts" : {
+    "tabula" : "randombox.png"
+  },
+  "animationPosition" : [0, 0]
+}

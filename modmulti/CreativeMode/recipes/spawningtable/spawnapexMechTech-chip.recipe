@@ -1,0 +1,5 @@
+{
+	"input" : [ ],
+	"output" : { "item" : "apexMechTech-chip", "count" : 1 },
+	"groups" : [ "spawningtable", "techy" ]
+}

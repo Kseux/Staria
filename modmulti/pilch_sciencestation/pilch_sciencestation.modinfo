@@ -1,0 +1,5 @@
+{
+  "name" : "Pilchenstein's Science Station",
+  "path" : ".",
+  "dependencies" : ["Modules in a Box"]
+}

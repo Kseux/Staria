@@ -1,0 +1,55 @@
+{
+  "objectName" : "atmospheregenerator",
+  "rarity" : "Common",
+  "description" : "Provides heat and air to breathe.",
+  "shortdescription" : "Atmosphere Generator",
+  "subtitle" : "Breathe in space.",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 1000,
+
+  "apexDescription" : "A portable atmosphere generator.",
+  "avianDescription" : "Reverse your environmental damages. Great!",
+  "floranDescription" : "Floran hate air. Can't ssstab.",
+  "glitchDescription" : "Confusion. Why do I even need to breathe?",
+  "humanDescription" : "Asteroid base, here I come!",
+  "hylotlDescription" : "It doesn't matter whether I get my oxygen from water or air.",
+
+  "inventoryIcon" : "atmospheregeneratoricon.png",
+  "orientations" : [
+    {
+      "image" : "atmospheregenerator.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+	{
+	  "image" : "atmospheregenerator.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "flipImages" : true,
+      "direction" : "left"
+    }
+  ],
+  
+  "statusEffects" : [
+    {
+      "kind" : "Warmth",
+      "amount" : 140,
+      "range" : 20
+    },  
+	
+    {
+      "kind" : "breathprotection",
+	  "amount" : 140,
+      "range" : 20
+    }
+  ]
+}

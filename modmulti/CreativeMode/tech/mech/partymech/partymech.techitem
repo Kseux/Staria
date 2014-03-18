@@ -1,0 +1,10 @@
+{
+  "itemName" : "partyMechTech",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "/tech/partymech.png",
+  "description" : "Press F. Use this tech, spawn a  partymech. Then party down.",
+  "shortdescription" : "Party Mech",
+  "inspectionKind" : "tech",
+
+  "techModule" : "partymech.tech"
+}

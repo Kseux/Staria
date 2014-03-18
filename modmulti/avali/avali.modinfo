@@ -1,0 +1,13 @@
+{
+	"name" : "Avali",
+	"version" : "Beta v. Enraged Koala",
+	"path" : ".",
+	"dependencies" : [],
+	"metadata" : {
+    "displayName" : "Avali Race Mod",
+		"author" : "RyuujinZERO",
+		"description" : "The only fluffy nomadic space raptors!",
+		"support_url" : "http://community.playstarbound.com/index.php?resources/avali-race-mod.998/",
+		"version" : "0.9.0"
+	}
+}

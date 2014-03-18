@@ -1,0 +1,10 @@
+{
+  "input" : [
+
+  ],
+  "output" : {
+    "item" : "randombox",
+    "count" : 1
+  },
+  "groups" : [ "cheatingtable", "all", "boxes" ]
+}

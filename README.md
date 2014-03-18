@@ -36,4 +36,4 @@ Base in a box + pilch_sciencestation : http://community.playstarbound.com/index.
 madtulip's : http://community.playstarbound.com/index.php?resources/madtulip-s-spaceship-mod.59/  
 Planetside Teleporters : http://community.playstarbound.com/index.php?resources/planetside-teleporters.1031/  
 tabularasa : http://community.playstarbound.com/index.php?resources/the-tabula-rasa.114/  
-Simple Extended Character Creation Mod : http://community.playstarbound.com/index.php?resources/simple-extended-character-creation-mod-now-even-easier.218/ 
+Simple Extended Character Creation Mod : http://community.playstarbound.com/index.php?resources/simple-extended-character-creation-mod-now-even-easier.218/

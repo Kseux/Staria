@@ -1,3 +1,4 @@
+@echo off
 :debut
 echo "/--------------------------------"
 echo "| Pour jouer en solo : tapez '1' "
@@ -7,9 +8,9 @@ echo "\--------------------------------"
 
 ::command
 set /p choix=
-if %choix%==1 then goto Solo
-if %choix%==2 then goto Multi
-if %choix%==q then goto Quit
+if %choix%==1 goto Solo
+if %choix%==2 goto Multi
+if %choix%==q goto Quit
 
 ::Si ce n'est pas 1, 2 ou q alors c'est que ce n'est pas bon
 echo Votre choix n'est pas correcte %choix%

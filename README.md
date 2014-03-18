@@ -1,28 +1,28 @@
 Bienvenue Starien
 ======
 
-====== Installation :
+# Installation :
 Pour disposer de ces mods automatiquement veuillez suivre les indications suivantes ;)  
 telechargez git :  
 * windows mac et linux : http://git-scm.com/downloads
 * linux : vous pouvez utiliser les depots de votre distribution, ce devrais etre plus simple ^^
 
-Installez git :
+## Installez git :
 * Pour Windows, durant l'instalation verifiez bien que cette ligne est activé, sinon activez la.
 ![Image instructive](http://i.imgur.com/J4jn2ux.png)
 * Pour mac je n'ai pas d'image à fournir mais git doit imperativement etre utilisable en ligne de commade
 
-Creer le depot :
+## Creer le depot :
 * Ouvrez un terminal ou une console dans le dossier de Starbound
 * Entrez "git clone https://github.com/purexo/Staria.git .\Staria" (pour windows)
 * Entrez "git clone https://github.com/purexo/Staria.git ./Staria" (pour mac et linux)
 * Verifiez que dans la racine de Starbound vous avez un dossier Staria (contenant le contenu de ce depot)
 
-====== Utilisation :
+# Utilisation :
 * faites un raccourci du launcher adapté à votre OS
 * utilisez le
 
-====== Liste des mods de Staria :
+# Liste des mods de Staria :
 CreativeMode : http://community.playstarbound.com/index.php?resources/creative-mode-complete-control-over-your-experience-enraged-koala.614/  
 AtmosphereGenerator : http://community.playstarbound.com/index.php?resources/placeable-atmosphere-generator.646/  
 Avali : http://community.playstarbound.com/index.php?resources/avali-race-mod.998/  

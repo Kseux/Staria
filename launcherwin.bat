@@ -1,10 +1,10 @@
 @echo off
 :debut
-echo "/--------------------------------"
-echo "| Pour jouer en solo : tapez '1' "
-echo "| Pour jouer en multi : tapez '2'"
-echo "| Pour quitter tapez 'q'         "
-echo "\--------------------------------"
+echo /--------------------------------
+echo # Pour jouer en solo : tapez '1' 
+echo # Pour jouer en multi : tapez '2'
+echo # Pour quitter tapez 'q'         
+echo \--------------------------------
 
 ::command
 set /p choix=

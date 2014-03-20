@@ -6,6 +6,9 @@ echo # Pour jouer en multi : tapez '2'
 echo # Pour quitter tapez 'q'         
 echo \--------------------------------
 
+:binddir
+cd /D %~dp0
+
 ::command
 set /p choix=
 if %choix%==1 goto Solo

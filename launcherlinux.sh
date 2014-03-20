@@ -2,6 +2,9 @@
 # pour eviter tout soucis je met la valeur 32 par defaut.
 OS="32"
 
+BINDIR=$(dirname "$(readlink -fn "$0")")
+cd "$BINDIR"
+
 echo "/--------------------------------"
 echo "| Pour jouer en solo : tapez '1' "
 echo "| Pour jouer en multi : tapez '2'"
@@ -12,15 +15,17 @@ read choix
 
 case $choix in
     1)
-       cp bootstrap/bootstrapsolo.config ../linux`$OS`/bootstrap.config
-       ../linux`$OS`/starbound
-       cp bootstrap/bootstrap.config ../linux`$OS`/bootstrap.config
+       cp bootstrap/bootstrapsolo.config ../linux$OS/bootstrap.config
+       cd ../linux$OS && ./starbound
+       cd ../Staria
+       cp bootstrap/bootstrap.config ../linux$OS/bootstrap.config
        ;;
     2)
        git pull
-       cp bootstrap/bootstrapmulti.config ../linux`$OS`/bootstrap.config
-       ../linux`$OS`/starbound
-       cp bootstrap/bootstrap.config ../linux`$OS`/bootstrap.config
+       cp bootstrap/bootstrapmulti.config ../linux$OS/bootstrap.config
+       cd ../linux$OS && ./starbound
+       cd ../Staria
+       cp bootstrap/bootstrap.config ../linux$OS/bootstrap.config
        ;;
     q) 
        exit

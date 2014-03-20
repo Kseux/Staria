@@ -1,3 +1,6 @@
+BINDIR=$(dirname "$(readlink -fn "$0")")
+cd "$BINDIR"
+
 echo "/--------------------------------"
 echo "| Pour jouer en solo : tapez '1' "
 echo "| Pour jouer en multi : tapez '2'"

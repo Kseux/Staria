@@ -3,23 +3,23 @@ Bienvenue Starien
 
 # Installation :
 Pour disposer de ces mods automatiquement veuillez suivre les indications suivantes ;)  
-telechargez git :  
+Téléchargez git :  
 * windows mac et linux : http://git-scm.com/downloads
-* linux : vous pouvez utiliser les depots de votre distribution, ce devrais etre plus simple ^^
+* linux : vous pouvez utiliser les depots de votre distribution, ce devrais être plus simple ^^
 
 ## Installez git :
-* Pour Windows, durant l'instalation verifiez bien que cette ligne est activé, sinon activez la.
+* Pour Windows, durant l'instalation vérifiez bien que cette ligne est activé, sinon activez la.
 ![Image instructive](http://i.imgur.com/J4jn2ux.png)
-* Sinon les autres option par defaut n'ont aucune importance, cliquez sur suivant le reste du temps ;)
-* Pour mac je n'ai pas d'image à fournir mais git doit imperativement etre utilisable en ligne de commande
+* Sinon les autres option par défaut n'ont aucune importance, cliquez sur suivant le reste du temps ;)
+* Pour mac je n'ai pas d'image à fournir mais git doit imperativement être utilisable en ligne de commande
  
-note : si git vous demande de creer un depot apres/a la fin l'instalation, ne le faites (skippez cette etape) on s'en occupe juste apres avec une ligne de commande.
+note : si git vous demande de créer un dépot après/à la fin l'installation, ne le faites (skippez cette etape) on s'en occupe juste après avec une ligne de commande.
 
-## Creer le depot :
-* Ouvrez un terminal ou une console (du systeme d'operation, pas GitBash) à partir du dossier de Starbound (Ou creer un .bat ou .sh avec la commande suivante a l'interieur puis executer le)
+## Créer le depot :
+* Ouvrez un terminal ou une console (du systeme d'operation, pas GitBash) à partir du dossier de Starbound (Ou créer un .bat ou .sh avec la commande suivante a l'interieur puis executer le)
 * Entrez "git clone https://github.com/purexo/Staria.git .\Staria" (pour windows)
 * Entrez "git clone https://github.com/purexo/Staria.git ./Staria" (pour mac et linux)
-* Verifiez que dans la racine de Starbound vous avez un dossier Staria (contenant le contenu de ce depot)
+* Vérifiez que dans la racine de Starbound vous avez un dossier Staria (contenant le contenu de ce dépôt)
 
 Note : Vous pouvez le faire avec le terminal GitBash mais vous ne pourrez pas utiliser le copié collé
 

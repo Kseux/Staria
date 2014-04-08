@@ -10,7 +10,6 @@
           [ "avaliplant2", 3],
           [ "avaliplant3", 3],
 		  "avalistarter"
-			
         ],
         "levelVariance" : [0, 0],
         "allowDuplication" : false

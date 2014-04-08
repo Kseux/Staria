@@ -2,7 +2,7 @@
   "kind" : "avali",
   "playerSpecies" : true,
   "nameGen" : [ "/species/avalinamegen.config:names", "/species/avalinamegen.config:names" ],
-  "ouchNoises" : [ "/sfx/npc/smallbiped/spidermonkey_idle2.wav", "/sfx/npc/smallbiped/spidermonkey_idle1.wav" ],
+  "ouchNoises" : [ "/sfx/npc/smallbiped/spidermonkey_pain2.wav", "/sfx/npc/smallbiped/spidermonkey_pain2.wav" ],
   "charGenTextLabels" : [ "FLUFF COLOR", "PLUMAGE", "ACCESSORY", "OUTFIT", "TRIM COLOR", "FEATHER COLOR", "ACCESSORY COLOR", "OUTFIT COLOR", "AVALI", "PERSONALITY" ],
   "defaultBlueprints" : {
     "tier1" : [
@@ -49,6 +49,7 @@
       { "item" : "avaliarmor2pants" },	
 	  { "item" : "avaliarmor3head" },
       { "item" : "avaliarmor3pants" },	
+	  { "item" : "avaliarmor4head" },
 	  
       { "item" : "avaliflour" },
       { "item" : "avalinoodle" },
@@ -111,72 +112,66 @@
       { "item" : "avalitier5chest" },
       { "item" : "avalitier5pants" },
 	  
-      { "item" : "hylotltier5hammer" },
-      { "item" : "hylotltier5shortsword" },
-      { "item" : "hylotltier5broadsword" },
-      { "item" : "hylotltier5spear" },
-      { "item" : "hylotltier5axe" },
-      { "item" : "hylotltier5dagger" }
+      { "item" : "avalitier5broadsword" },  
+      { "item" : "avalitier5hammer" },	  	  
+      { "item" : "avalitier5dagger" },	  
+      { "item" : "avalitier5shortsword" },
+      { "item" : "avalitier5spear" }
     ],
     "level33" : [
 	  { "item" : "avalitier6head" },
       { "item" : "avalitier6chest" },
       { "item" : "avalitier6pants" },
 	  
-      { "item" : "hylotltier6hammer" },
-      { "item" : "hylotltier6shortsword" },
-      { "item" : "hylotltier6broadsword" },
-      { "item" : "hylotltier6spear" },
-      { "item" : "hylotltier6axe" },
-      { "item" : "hylotltier6dagger" }
+      { "item" : "avalitier6broadsword" },  
+      { "item" : "avalitier6hammer" },	  	  
+      { "item" : "avalitier6dagger" },	  
+      { "item" : "avalitier6shortsword" },
+      { "item" : "avalitier6spear" }
     ],
     "level34" : [
 	  { "item" : "avalitier7head" },
       { "item" : "avalitier7chest" },
       { "item" : "avalitier7pants" },
 	  
-      { "item" : "hylotltier7hammer" },
-      { "item" : "hylotltier7shortsword" },
-      { "item" : "hylotltier7broadsword" },
-      { "item" : "hylotltier7spear" },
-      { "item" : "hylotltier7axe" },
-      { "item" : "hylotltier7dagger" }
+      { "item" : "avalitier7broadsword" },  
+      { "item" : "avalitier7hammer" },	  	  
+      { "item" : "avalitier7dagger" },	  
+      { "item" : "avalitier7shortsword" },
+      { "item" : "avalitier7spear" }
     ],
     "level35" : [
 	  { "item" : "avalitier8head" },
       { "item" : "avalitier8chest" },
       { "item" : "avalitier8pants" },
 	  
-      { "item" : "hylotltier8hammer" },
-      { "item" : "hylotltier8shortsword" },
-      { "item" : "hylotltier8broadsword" },
-      { "item" : "hylotltier8spear" },
-      { "item" : "hylotltier8axe" },
-      { "item" : "hylotltier8dagger" }
+      { "item" : "avalitier8broadsword" },  
+      { "item" : "avalitier8hammer" },	  	  
+      { "item" : "avalitier8dagger" },	  
+      { "item" : "avalitier8shortsword" },
+      { "item" : "avalitier8spear" }
     ],
     "level36" : [
 	  { "item" : "avalitier9head" },
       { "item" : "avalitier9chest" },
       { "item" : "avalitier9pants" },
 	  
-      { "item" : "hylotltier9hammer" },
-      { "item" : "hylotltier9shortsword" },
-      { "item" : "hylotltier9broadsword" },
-      { "item" : "hylotltier9spear" },
-      { "item" : "hylotltier9axe" },
-      { "item" : "hylotltier9dagger" }
+      { "item" : "avalitier9broadsword" },  
+      { "item" : "avalitier9hammer" },	  	  
+      { "item" : "avalitier9dagger" },	  
+      { "item" : "avalitier9shortsword" },
+      { "item" : "avalitier9spear" }
     ],
     "level37" : [
 	  { "item" : "avalitier10head" },
       { "item" : "avalitier10chest" },
       { "item" : "avalitier10pants" },
 	  
-      { "item" : "hylotltier10hammer" },
-      { "item" : "hylotltier10shortsword" },
-      { "item" : "hylotltier10broadsword" },
-      { "item" : "hylotltier10spear" },
-      { "item" : "hylotltier10axe" },
-      { "item" : "hylotltier10dagger" }
+      { "item" : "avalitier10broadsword" },  
+      { "item" : "avalitier10hammer" },	  	  
+      { "item" : "avalitier10dagger" },	  
+      { "item" : "avalitier10shortsword" },
+      { "item" : "avalitier10spear" }
     ]
   },
   
@@ -190,7 +185,7 @@
       "name" : "male",
       "image" : "/interface/title/male.png",
       "characterImage" : "/interface/title/avalimale.png",
-      "hair" : [ "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14"  ],
+      "hair" : [ "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19"  ],
       "shirt" : [ "maskchest", "avaliset1chest", "avaliset1bchest", "avaliset5chest", "avaliset5bchest", "avaliracial1chest", "avaliracial2chest" ],
       "pants" : [ "maskpants", "avaliset1pants", "avaliset1bpants", "avaliset5pants", "avaliset5bpants", "avaliracial1pants", "avaliracial2pants", "avaliarmor1pants" ],
       "facialHairGroup" : "",
@@ -202,7 +197,7 @@
       "name" : "female",
       "image" : "/interface/title/female.png",
       "characterImage" : "/interface/title/avalifemale.png",
-      "hair" : [ "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14" ],
+      "hair" : [ "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19" ],
       "shirt" : [ "maskchest", "avaliset1chest", "avaliset1bchest", "avaliset5chest", "avaliset5bchest", "avaliracial1chest", "avaliracial2chest" ],
       "pants" : [ "maskpants", "avaliset1pants", "avaliset1bpants", "avaliset5pants", "avaliset5bpants", "avaliracial1pants", "avaliracial2pants", "avaliarmor1pants" ],
       "facialHairGroup" : "",

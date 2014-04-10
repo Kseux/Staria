@@ -3,7 +3,7 @@
   "playerSpecies" : true,
   "nameGen" : [ "/species/avalinamegen.config:names", "/species/avalinamegen.config:names" ],
   "ouchNoises" : [ "/sfx/npc/smallbiped/spidermonkey_pain2.wav", "/sfx/npc/smallbiped/spidermonkey_pain2.wav" ],
-  "charGenTextLabels" : [ "FLUFF COLOR", "PLUMAGE", "ACCESSORY", "OUTFIT", "TRIM COLOR", "FEATHER COLOR", "ACCESSORY COLOR", "OUTFIT COLOR", "AVALI", "PERSONALITY" ],
+  "charGenTextLabels" : [ "FLUFF COLOR", "PLUMAGE", "SLEEVES", "OUTFIT", "TRIM COLOR", "FEATHER COLOR", "SLEEVES COLOR", "OUTFIT COLOR", "AVALI", "PERSONALITY" ],
   "defaultBlueprints" : {
     "tier1" : [
 	  { "item" : "avalitier1head"},
@@ -50,6 +50,12 @@
 	  { "item" : "avaliarmor3head" },
       { "item" : "avaliarmor3pants" },	
 	  { "item" : "avaliarmor4head" },
+	  { "item" : "avaliarmor5head" },
+	  { "item" : "avaliarmor6head" },
+	
+	  { "item" : "avalihat2" },
+	  { "item" : "avalihat3" },
+	  { "item" : "avalihat4" },
 	  
       { "item" : "avaliflour" },
       { "item" : "avalinoodle" },

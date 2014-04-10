@@ -7,6 +7,7 @@
   "category" : "decorative",
   "printable" : false,
   "price" : 1,
+  "retainObjectParametersInItem" : true, 
 
   "apexDescription" : "What a crude structure.",
   "avianDescription" : "Reminds me of a market on Avos",
@@ -16,7 +17,7 @@
   "hylotlDescription" : "Such primitive lifeforms!",
   "avaliDescription" : "Most of our tents are assembled piecemeal from carbon nanofibre sheets and poles.", 
 
-  "inventoryIcon" : "campslope1.png",
+  "inventoryIcon" : "campslope1icon.png",
   "orientations" : [
     {
       "image" : "campslope1.png:<color>",

@@ -7,7 +7,7 @@
   "itemDrop" : "avalichits",
   "description" : "Holo-archives, data chits and other removable data storage.",
   "shortdescription" : "Data Storage",
-  "multicolored" : false,
+  "multicolored" : true,
   "footstepSound" : "/sfx/blocks/footstep_composite.wav",
   "health" : 1.0
 }

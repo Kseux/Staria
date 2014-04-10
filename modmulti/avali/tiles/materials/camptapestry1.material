@@ -4,7 +4,7 @@
   "frames" : "camptapestry1.png",
   "particleColor" : [110, 110, 110, 255],
   "variants" : 5,
-  "itemDrop" : "camptapestry1",
+  "itemDrop" : "camptapestry1",  
   "description" : "A soft, decorative tapestry",
   "shortdescription" : "Avali Tapestry",
   "multicolored" : true,

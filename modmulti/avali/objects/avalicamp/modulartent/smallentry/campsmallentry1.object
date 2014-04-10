@@ -7,7 +7,8 @@
   "category" : "decorative",
   "printable" : false,
   "price" : 1,
-
+  "retainObjectParametersInItem" : true,
+  
   "apexDescription" : "What a crude structure.",
   "avianDescription" : "Reminds me of a market on Avos.",
   "floranDescription" : "Funny material, what plant isss it from?",
@@ -16,7 +17,7 @@
   "hylotlDescription" : "Such primitive lifeforms!",
   "avaliDescription" : "Most of our tents are assembled piecemeal from carbon nanofibre sheets and poles.", 
 
-  "inventoryIcon" : "campsmallentry1.png",
+  "inventoryIcon" : "campsmallentry1icon.png",
   "orientations" : [
     {
       "image" : "campsmallentry1.png:<color>",

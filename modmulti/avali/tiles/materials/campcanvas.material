@@ -7,7 +7,7 @@
   "itemDrop" : "campcanvas",
   "description" : "Avali tent fabric can stop bullets!",
   "shortdescription" : "Tent Fabric",
-  "multicolored" : false,
+  "multicolored" : true,
   "footstepSound" : "/sfx/blocks/footstep_sand.wav",
   "health" : 1.0
 }

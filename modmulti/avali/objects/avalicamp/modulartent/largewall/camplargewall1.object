@@ -16,7 +16,7 @@
   "hylotlDescription" : "Such primitive lifeforms!",
   "avaliDescription" : "Most of our tents are assembled piecemeal from carbon nanofibre sheets and poles.", 
 
-  "inventoryIcon" : "camplargewall1.png",
+  "inventoryIcon" : "camplargewall1icon.png",
   "orientations" : [
     {
       "image" : "camplargewall1.png:<color>",

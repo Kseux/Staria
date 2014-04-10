@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "uncommon",
-  "description" : "Avali lances feature a shaft that telescopes on contact, driving the tip deep into the victim",
-  "shortdescription" : "VL3 Icicle",
+  "description" : "VL3 Icicle",
+  "shortdescription" : "",
   "inspectionKind" : "sword",
   "kind" : "Spear",
 
@@ -44,7 +44,7 @@
 
   "primaryStances" : {
     "directional" : true,
-    "projectileType" : "avalispearswoosh",
+    "projectileType" : "spearswoosh1",
     "projectile" : {
       "speed" : 0.1,
       "power" : 53

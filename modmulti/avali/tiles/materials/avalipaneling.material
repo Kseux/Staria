@@ -7,7 +7,7 @@
   "itemDrop" : "avalipaneling",
   "description" : "Like paneling, but darker.",
   "shortdescription" : "Dark Paneling",
-  "multicolored" : false,
+  "multicolored" : true,
   "footstepSound" : "/sfx/blocks/footstep_sand.wav",
   "health" : 1.0
 }

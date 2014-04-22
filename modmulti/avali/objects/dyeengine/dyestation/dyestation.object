@@ -1,0 +1,19 @@
+{
+  "__merge" : [],
+  "dyeEngine" : {
+    "object" : {
+      "whitelist" : [
+		"avalicushion1",
+		"avalicushion2",	  
+        "campslope1",
+		"campsmallentry1",
+		"camplargeentry1",				
+		"campsmallwall1",
+		"camplargewall1",
+		"campdoor",
+		"avalihammock1"
+      ]
+    }
+  }
+}
+		

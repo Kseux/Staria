@@ -5,6 +5,7 @@ echo # Pour jouer en solo : tapez '1'
 echo # Pour jouer en multi : tapez '2'
 echo # Pour quitter tapez 'q'         
 echo \--------------------------------
+@echo on
 
 :binddir
 cd /D %~dp0

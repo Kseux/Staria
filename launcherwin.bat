@@ -5,7 +5,6 @@ echo # Pour jouer en solo : tapez '1'
 echo # Pour jouer en multi : tapez '2'
 echo # Pour quitter tapez 'q'         
 echo \--------------------------------
-@echo on
 
 :binddir
 cd /D %~dp0
@@ -21,12 +20,14 @@ echo Votre choix n'est pas correcte %choix%
 Goto debut
 
 :Solo
+@echo on
 COPY bootstrap\bootstrapsolo.config ..\win32\bootstrap.config
 ..\win32\launcher\launcher.exe
 COPY bootstrap\bootstrap.config ..\win32\bootstrap.config
 exit
 
 :Multi
+@echo on
 git pull
 COPY bootstrap\bootstrapmulti.config ..\win32\bootstrap.config
 ..\win32\launcher\launcher.exe

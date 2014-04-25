@@ -1,0 +1,13 @@
+{
+  "materialId" : 13011,
+  "materialName" : "avaliplain",
+  "frames" : "avaliplain.png",
+  "particleColor" : [110, 110, 110, 255],
+  "variants" : 1,
+  "itemDrop" : "avaliplain",
+  "description" : "Plain paneling, because sometimes less is more.",
+  "shortdescription" : "Plain panel",
+  "multicolored" : true,
+  "footstepSound" : "/sfx/blocks/footstep_composite.wav",
+  "health" : 1.0
+}

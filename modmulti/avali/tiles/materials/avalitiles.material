@@ -1,0 +1,13 @@
+{
+  "materialId" : 12507,
+  "materialName" : "avalitiles",
+  "frames" : "avalitiles.png",
+  "particleColor" : [110, 110, 110, 255],
+  "variants" : 1,
+  "itemDrop" : "avalitiles",
+  "description" : "Easy wipe-clean tiles... perfect for places prone to mess.",
+  "shortdescription" : "Composite Tiles",
+  "multicolored" : true,
+  "footstepSound" : "/sfx/blocks/footstep_composite.wav",
+  "health" : 1.0
+}

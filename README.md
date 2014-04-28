@@ -30,7 +30,7 @@ Note : Vous pouvez le faire avec le terminal GitBash mais vous ne pourrez pas ut
 # Liste des mods de Staria :
 CreativeMode : http://community.playstarbound.com/index.php?resources/creative-mode-complete-control-over-your-experience-enraged-koala.614/  
 AtmosphereGenerator : http://community.playstarbound.com/index.php?resources/placeable-atmosphere-generator.646/  
-Avali : http://community.playstarbound.com/index.php?resources/avali-race-mod.998/  
+Avali : http://community.playstarbound.com/index.php?resources/avali-race-mod.998/ (semble poser soucis en ce moment?) 
 Lightdrones : http://community.playstarbound.com/index.php?resources/lightdrones.675/  
 Base in a box + pilch_sciencestation : http://community.playstarbound.com/index.php?resources/base-in-a-box.592/  
 madtulip's : http://community.playstarbound.com/index.php?resources/madtulip-s-spaceship-mod.59/  
